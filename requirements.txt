@@ -1,0 +1,16 @@
+# BYOD Compliance Monitor - Python Dependencies
+# Core dependencies (standard library only for core functionality)
+
+# Optional: For enhanced HTML report generation
+# jinja2>=3.1.2
+
+# Optional: For advanced data analysis
+# pandas>=2.0.0
+
+# Optional: For stealth mode encryption
+# cryptography>=41.0.0
+
+# Development dependencies
+# pytest>=7.4.0  # For testing
+# black>=23.0.0  # For code formatting
+# pylint>=2.17.0  # For code linting
