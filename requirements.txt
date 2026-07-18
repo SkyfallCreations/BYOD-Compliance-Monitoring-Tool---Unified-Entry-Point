@@ -1,3 +1,0 @@
-# BYOD Compliance Monitor - Python Dependencies
-# No external dependencies required for core functionality
-# All modules use Python standard library only
