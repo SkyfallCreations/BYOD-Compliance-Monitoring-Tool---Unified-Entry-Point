@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project Specific
+temp_data/
+output/
+logs/
+*.db
+*.log
+*.sqlite
+*.sqlite3
+
+# Configuration (sensitive data)
+config/policy_config.json
+*.conf
+*.secret
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Credentials
+credentials.json
+*.pem
+*.key
+*.crt
+.env
+.env.local
+.env.*.local
+
+# ADB
+adbkey
+adbkey.pub
