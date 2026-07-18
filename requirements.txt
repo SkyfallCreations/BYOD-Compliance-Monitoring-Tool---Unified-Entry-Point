@@ -1,0 +1,4 @@
+# Runtime dependencies
+# The support package itself uses only the Python standard library.
+# Add application runtime dependencies here only after confirming they
+# are imported by the real source code and pin them to compatible ranges.
